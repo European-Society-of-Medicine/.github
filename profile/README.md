@@ -16,3 +16,4 @@ An interactive story from the [Global Nutrition Alliance](https://esmed.org/glob
 - [Global Health Center publications](https://esmed.org/global-health-center-publications/)
 - [Advisory committees](https://esmed.org/advisory-committees/)
 - [Medical Research Archives](https://esmed.org/medical-research-archives/)
+- [European Society of Medicine on Google Sites](https://sites.google.com/esmed.org/european-society-of-medicine)
